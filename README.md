@@ -6,6 +6,7 @@
 [![Repology metadata](https://github.com/termux/repology-metadata/workflows/Repology%20metadata/badge.svg)](https://repology.org/repository/termux)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
 [![Join the Termux discord server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.gg/HXpF69X)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMedzikUser%2Ftermux-packages.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMedzikUser%2Ftermux-packages?ref=badge_shield)
 
 <img src=".github/static/powered-by-fosshost.png" alt="Powered by FossHost" width="128px"></img>
 
@@ -30,3 +31,7 @@ Developer mailing list: https://groups.io/g/termux-dev
 General chat: https://gitter.im/termux/termux or #termux on IRC/libera.chat.
 
 Developer chat: https://gitter.im/termux/dev.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMedzikUser%2Ftermux-packages.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMedzikUser%2Ftermux-packages?ref=badge_large)
